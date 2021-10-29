@@ -1,5 +1,3 @@
-# Main Radio Website
+# rFactor 2 UI
 
-React source code for the main radio website
-
-"# rf2-ui" 
+A react-based site to show live data from rFactor
